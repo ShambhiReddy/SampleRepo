@@ -97,4 +97,4 @@ shown by BaseGameActivity and GameHelper). How can I do that?
     res/values/gamehelper_strings.xml into the corresponding locale folders,
     as you would any other string resouce in Android.
 
-
+// testing testing
